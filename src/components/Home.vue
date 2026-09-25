@@ -635,7 +635,7 @@ body {
 
 /* สไตล์สำหรับรูป */
 .img-logo {
-  max-width: 40%;
+  max-width: 55%;
   filter: drop-shadow(0 0 20px rgb(0, 255, 106));
   margin-bottom: 3rem;
 }
@@ -727,7 +727,7 @@ body {
 
   @media (min-width: 500px) {
   .img-logo{
-    width: 20%;
+    width: 40%;
   }
   }
 
