@@ -147,9 +147,10 @@ export default {
       onlineCount6: "13,254",
       onlineCountAll: "149,631",
       slides: [
-        { src: 'photo_6176799786905226231_y.jpg', alt: 'Image 3' },
-        { src: 'aaa.jpg', alt: 'Image 1' },
-        { src: 'aaaa.jpg', alt: 'Image 2' },      
+        { src: 'P3.jpg', alt: 'Image 3' },
+        { src: 'P1.jpg', alt: 'Image 1' },
+        { src: 'P4.jpg', alt: 'Image 2' },
+        { src: 'P2.jpg', alt: 'Image 4' },      
       ],
       topUsersData : [
       { userName: "nagaa01xx", amount: "150,000", timestamp: "31 ส.ค. 2568" },
@@ -635,7 +636,7 @@ body {
 
 /* สไตล์สำหรับรูป */
 .img-logo {
-  max-width: 55%;
+  max-width: 75%;
   filter: drop-shadow(0 0 20px rgb(0, 255, 106));
   margin-bottom: 3rem;
 }
@@ -727,7 +728,7 @@ body {
 
   @media (min-width: 500px) {
   .img-logo{
-    width: 40%;
+    width: 27%;
   }
   }
 
