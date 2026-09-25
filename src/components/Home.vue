@@ -637,7 +637,6 @@ body {
 /* สไตล์สำหรับรูป */
 .img-logo {
   max-width: 75%;
-  filter: drop-shadow(0 0 20px rgb(0, 255, 106));
 }
 
 /* ข้อความที่กระพริบ */
