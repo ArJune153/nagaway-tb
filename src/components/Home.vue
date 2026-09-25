@@ -1,6 +1,6 @@
 <template>
   <div class="container-home">
-    <img class="img-logo" :src="require('@/assets/c3ff7ed1-5717-43b7-869f-56f67ba7cb0b.png')" alt="Background Image"/>
+    <img class="img-logo" :src="require('@/assets/Zova.png')" alt="Background Image"/>
     <div>    
       <span class="text1">เว็บตรงแท้ จากต่างประเทศ 100%</span>
       <br><b class="text2">✨การันตีผู้ใช้งานจริงนับล้านยูสเซอร์ ลูกค้าใหม่ เพิ่มอัตราการชนะ ทันที !!</b>
